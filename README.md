@@ -28,3 +28,6 @@ Overall, the File Management Tool effectively demonstrates essential programming
 
 
 # OUTPUT
+
+<img width="510" height="638" alt="Image" src="https://github.com/user-attachments/assets/2378ad63-4b51-4904-9df5-4eae47b99644" />
+
